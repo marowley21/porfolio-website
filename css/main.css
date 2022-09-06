@@ -1,4 +1,5 @@
 body, html{
+    background-color: orangered;
     height: 100%;
     margin: 0px;
 }
@@ -20,11 +21,11 @@ nav ul{
 
 nav{
     display: block;
-    color:white;
+    color:blue;
 }
 
 nav a{
-    color:crimson
+    color:crimson;
     text-decoration: none;
 }
 
@@ -33,5 +34,5 @@ nac a:hover{
 }
 
 .hero-image{
-    background-image: url("../https://1drv.ms/u/s!AhdcyZ_xQrDIh3i72jg8ElUGVoEB");
+    background-image: source=url("../https://1drv.ms/u/s!AhdcyZ_xQrDIh3i72jg8ElUGVoEB");
 }
